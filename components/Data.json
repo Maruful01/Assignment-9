@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Bike",
+        "image": "https://img.freepik.com/free-vector/man-ride-naked-bike-cartoon-speed-motorcycle-illustration_261104-19.jpg?size=338&ext=jpg"
+    },
+    {
+        "id": 2,
+        "name": "Car",
+        "image": "https://png.clipart.me/image_preview/528/car-top-view-vector-free-26970.png"
+    },
+    {
+        "id": 3,
+        "name": "Bus",
+        "image": "https://www.downloadclipart.net/large/84-travel-bus-file-clipart.png"
+    },
+    {
+        "id": 4,
+        "name": "Train",
+        "image": "https://i.pinimg.com/736x/e5/dc/c5/e5dcc5040ce8c5b7cb3fccc243a2da46.jpg"
+    }
+]
